@@ -1,4 +1,5 @@
 HanzoAiArt
+wild_berry
 midjourney_artist
 dall-e_creator
 ai_illustrator
